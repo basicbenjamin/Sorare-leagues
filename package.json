@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@apollo/rover": "^0.20.0"
+  }
+}
